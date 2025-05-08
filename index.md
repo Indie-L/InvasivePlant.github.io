@@ -1,3 +1,3 @@
-<p align="center">
+<h1 align="center">
   Impacts of an Invasive Plant Species on Native Plant Distribution and Abundance
-</p>
+</h1>
