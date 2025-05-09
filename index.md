@@ -24,11 +24,14 @@
 <h3 align="center">
   Data Sources
 
-  ![Alt text](https://github.com/Indie-L/InvasivePlant.github.io/blob/main/Screenshot%202025-05-08%20102127.png) 
-
 </h3>
 
 <p align="center">
    Plant distribution data was sourced from iNaturalist. iNaturalist is a citizen science-based network where individuals collect and report species observations for public use. This project utilized species occurrence data from Georgia between 2020 and 2025. </p>
 
 
+<h2 align="center">
+  Plant Distribution
+</h2>
+
+  ![Alt text](https://github.com/Indie-L/InvasivePlant.github.io/blob/main/Screenshot%202025-05-08%20102127.png) 
