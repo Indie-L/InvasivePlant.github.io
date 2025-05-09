@@ -3,7 +3,7 @@
 </h1>
 
 <h3 align="center">
-  Abstract
+  Background Information
 </h3>
 
 <p align="center">
@@ -18,4 +18,6 @@
 <p align="center">
   By nature, invasives endanger native species and their ecosystems and threaten the economic well-being of the areas they invade. For this project, I decided to investigate the effects of an invasive plant on the distribution and abundance of three native plants: Virginia creeper (Parthenocissus quinquefolia), red maple (Acer rubrum), and Christmas fern. English ivy (Hedera helix) is a common invasive vine historically used in landscaping, which has now spread to a variety of wild habitats. Very few studies show the effects of specific invasives on native plant distribution and abundance. Invasive species have a significant negative impact on the health and well-being of native species and ecosystems as a whole. In the effort to conserve and restore native habitat, it is important to know the potential impacts of invasive species.  
 </p>
-  
+
+
+
