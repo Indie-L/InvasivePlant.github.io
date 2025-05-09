@@ -17,7 +17,13 @@
 
 <p align="center">
   <ul>
-  <li>  Is there a pessimistic correlation between the presence of English ivy and the three selected native plants?  1</li>
+  <li>  Is there a pessimistic correlation between the presence of English ivy and the three selected native plants?  </li>
   <li> Is there a conspicuous difference in the distribution of the three native plants, in relation to one another, especially in areas with large amounts of English ivy?
   <ul>
 
+<h3 align="center">
+  Data Sources
+</h3>
+
+<p align="center">
+   Plant distribution data was sourced from iNaturalist. iNaturalist is a citizen science-based network where individuals collect and report species observations for public use. This project utilized species occurrence data from Georgia between 2020 and 2025. </p>
