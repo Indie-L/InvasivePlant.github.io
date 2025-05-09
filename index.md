@@ -27,3 +27,5 @@
 
 <p align="center">
    Plant distribution data was sourced from iNaturalist. iNaturalist is a citizen science-based network where individuals collect and report species observations for public use. This project utilized species occurrence data from Georgia between 2020 and 2025. </p>
+
+
