@@ -39,7 +39,7 @@
 <h2 align="center">
   English Ivy and Christmas Fern Abundance Correlation
 </h2>
-![Alt text](https://raw.githubusercontent.com/Indie-L/InvasivePlant.github.io/refs/heads/main/Christmas%20Fern.png)
+![Alt text](ChristmasFern.png)
 
 <h2 align="center">
 English Ivy and Red Maple Abundance Correlation
