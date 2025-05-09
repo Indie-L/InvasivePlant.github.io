@@ -23,6 +23,9 @@
 
 <h3 align="center">
   Data Sources
+
+  ![Alt text](https://github.com/Indie-L/InvasivePlant.github.io/blob/main/Screenshot%202025-05-08%20102127.png) 
+
 </h3>
 
 <p align="center">
