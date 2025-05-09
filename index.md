@@ -51,3 +51,10 @@ English Ivy and Virginia Creeper Abundance Correlation
 </h2>
 ![Alt text](https://github.com/Indie-L/InvasivePlant.github.io/blob/main/Virginia_Creeper_Cor..png)
 
+<h2 align="center">
+  Results
+</h2>
+
+<p align="center">
+  The correlation between the abundance of each of the native species and English ivy showed a positive correlation; I expected a negative correlation. I presumed there would be a negative correlation because invasives typically decrease the abundance of native species. These results can be explained by potential reporting bias. There were significantly more red maple, Christmas fern, and Virginia Creeper observations than English ivy observations. The prevalence of English ivy throughout the state suggests that the quantity of observations in iNaturalist is not representative of the actual abundance. This discrepancy caused the positive correlation between the abundance of the invasive and the three native species. These findings suggest that iNaturalist, and possibly other citizen science-based data sets, are not the most effective way of addressing this question. </p>
+
