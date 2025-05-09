@@ -35,3 +35,10 @@
 </h2>
 
   ![Alt text](https://github.com/Indie-L/InvasivePlant.github.io/blob/main/Screenshot%202025-05-08%20102127.png) 
+
+<h2 align="center">
+  English Ivy and Christmas Fern Abundance Correlation
+</h2>
+
+  ![Alt text](https://github.com/Indie-L/InvasivePlant.github.io/blob/main/Christmas%20Fern.png) 
+
