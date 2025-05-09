@@ -39,6 +39,15 @@
 <h2 align="center">
   English Ivy and Christmas Fern Abundance Correlation
 </h2>
-
   ![Alt text](https://github.com/Indie-L/InvasivePlant.github.io/blob/main/Christmas%20Fern.png) 
+
+<h2 align="center">
+English Ivy and Red Maple Abundance Correlation
+</h2>
+  ![Alt text](https://github.com/Indie-L/InvasivePlant.github.io/blob/main/Red%20Maple.png) 
+
+<h2 align="center">
+English Ivy and Virginia Creeper Abundance Correlation
+</h2>
+  ![Alt text](https://github.com/Indie-L/InvasivePlant.github.io/blob/main/Virginia_Creeper_Cor..png) 
 
